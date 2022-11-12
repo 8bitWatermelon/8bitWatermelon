@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why, hello there 👋
 
 - 🤵‍♂️ My name is Enoabasi (or Enoabasi E. Essien)
 - 🌱 I’m currently learning Game development and Multimedia(Web, Computer and Mobile) development
